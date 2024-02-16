@@ -2,6 +2,7 @@ discord
 asyncio
 colorama
 subprocess
+subprocess32
 aiohttp
 os
 sys
