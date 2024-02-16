@@ -1,0 +1,8 @@
+discord
+asyncio
+re
+colorama
+subprocess
+aiohttp
+os
+sys
