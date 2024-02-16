@@ -1,2 +1,3 @@
-# Raid-Tool
-Raid Tools, private!
+# Raid Tools by ryuulol
+
+Tools to help raid/nuke
