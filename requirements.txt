@@ -1,6 +1,7 @@
 requests
 discord
 asyncio
+json
 datetime
 re
 colorama
