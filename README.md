@@ -1,8 +1,4 @@
 # Raid Tools by ryuulol
-
-Tools to help raid/nuke
-
- 
  
 Install Python 3.10 from the Microsoft store
 
