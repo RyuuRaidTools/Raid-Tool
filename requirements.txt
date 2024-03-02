@@ -4,6 +4,7 @@ asyncio
 json
 datetime
 re
+tempfile
 colorama
 subprocess
 aiohttp
